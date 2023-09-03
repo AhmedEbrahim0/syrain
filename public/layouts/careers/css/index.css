@@ -1,0 +1,1272 @@
+/* screen - careers-desktop */
+
+.careers-desktop {
+  display: grid;
+  place-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  flex-direction: column;
+  height: 2141px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.careers-desktop .frame-89 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  position: relative;
+  width: 80%;
+}
+
+.careers-desktop .logo-1 {
+  height: 73px;
+  min-width: 149px;
+  position: relative;
+}
+
+.careers-desktop .navbar {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  position: relative;
+  width: fit-content;
+}
+
+.careers-desktop .navbar-link {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.careers-desktop .title {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 63px;
+  min-height: 96px;
+  min-width: 262px;
+}
+
+.careers-desktop .current-positions {
+  white-space:normal;
+  text-align:center;
+  margin-left:29px;
+
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 124px;
+  min-height: 60px;
+  min-width: 356px;
+}
+
+.careers-desktop .overlap-group {
+
+  height: 932px;
+  margin-top: 125px;
+  position: relative;
+  width: 1280px;
+}
+
+.careers-desktop .leaf-with-white-background {
+  height: 299px;
+  left: 0px;
+  position: absolute;
+  top: 800px;
+  width: 231px;
+}
+
+.frame-40007 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  left: 160px;
+  position: absolute;
+  align-items: center;
+  top: 0;
+  width: 1120px;
+}
+
+.careers-desktop .frame-3991 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  position: relative;
+}
+
+.careers-desktop .frame-3991-1 {
+  background-image: url(../img/container-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 445px;
+  min-width: 550px;
+  position: relative;
+}
+
+.careers-desktop .frame-39913 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  left: 68px;
+  position: relative;
+  top: 60px;
+  width: 208px;
+}
+
+.careers-desktop .place {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.careers-desktop .job-title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.careers-desktop .location {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.careers-desktop .master-primary-button {
+  align-items: center;
+  align-self: stretch;
+  border: 2px solid;
+  border-color: var(--green);
+  border-radius: 40px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px 36px;
+  position: relative;
+}
+
+.careers-desktop .button-text {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.careers-desktop .job-title-1 {
+  height: 35px;
+}
+
+.careers-desktop .job-title-2 {
+  height: 28px;
+}
+
+.careers-desktop .fo {
+  align-items: flex-start;
+  background-color: var(--green);
+  display: flex;
+  height: 424px;
+  margin-top: 204px;
+  padding: 90px 160px;
+  width: 100%;
+
+}
+
+.careers-desktop .frame-125 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  margin: 0 auto;
+  position: relative;
+  width: 1120px;
+}
+
+.careers-desktop .frame-121 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.careers-desktop .footer_logo-1 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.careers-desktop .syrian-gourmet-was-b {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .social {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .frame-55 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.careers-desktop .frame-55-item {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.careers-desktop .vector-button {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.careers-desktop .frame-122 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.careers-desktop .quick-links {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.careers-desktop .place-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .products {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .recipes {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .about-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .conact-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .frame-124 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.careers-desktop .join-our-newsletter {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.careers-desktop .subscribe-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-desktop .frame-57 {
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 330.67px;
+  overflow: hidden;
+  position: relative;
+}
+
+.careers-desktop .frame-5 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 10px;
+  width: 309px;
+}
+
+.careers-desktop .enter-email {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 298px;
+  padding: 0;
+  position: relative;
+}
+
+.careers-desktop .enter-email::placeholder {
+  color: #5b5b5b99;
+}
+
+.careers-desktop .group-1 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.careers-desktop .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.careers-desktop .subscribe {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.careers-desktop .span0 {
+  color: var(--shark);
+}
+
+.careers-desktop .span1 {
+  color: var(--alto);
+}
+
+.careers-desktop .group-39833 {
+  align-self: flex-end;
+  height: 410px;
+  margin-right: -27236px;
+  margin-top: 2518px;
+  width: 352px;
+}
+
+.careers-desktop .leaf-with-white-background-1 {
+  align-self: flex-end;
+  height: 312px;
+  margin-right: -26221.82px;
+  margin-top: 2192px;
+  width: 415px;
+}
+
+.careers-desktop .job-title-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+}
+/* screen - careers-mobile */
+
+.careers-mobile {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3379px;
+  width: 100%;
+}
+
+.careers-mobile .frame-94 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+  position: relative;
+  width: 80%;
+}
+
+.careers-mobile .logo-1-1 {
+  height: 33px;
+  min-width: 68px;
+  position: relative;
+}
+
+.careers-mobile .frame-93 {
+  height: 36px;
+  min-width: 37px;
+  position: relative;
+}
+
+.careers-mobile .careers {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 31px;
+  min-height: 48px;
+  min-width: 131px;
+}
+
+.careers-mobile .current-positions-1 {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 38px;
+  min-height: 36px;
+  min-width: 214px;
+}
+
+.careers-mobile .frame-40007-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  margin-top: 39px;
+  position: relative;
+  width: 398px;
+}
+
+.careers-mobile .frame-3991-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.careers-mobile .frame-3991-3 {
+  background-image: url(../img/container-10@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 445px;
+  min-width: 398px;
+}
+
+.careers-mobile .frame-39913-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  left: 68px;
+  position: relative;
+  top: 60px;
+  width: 208px;
+}
+
+.careers-mobile .place-2 {
+  line-height: 18px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.careers-mobile .title-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.careers-mobile .location-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.careers-mobile .master-primary-button-1 {
+  align-items: center;
+  align-self: stretch;
+  border: 2px solid;
+  border-color: var(--green);
+  border-radius: 40px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px 36px;
+  position: relative;
+}
+
+.careers-mobile .button-text-1 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.careers-mobile .job-title-3 {
+  height: 35px;
+}
+
+.careers-mobile .job-title-4 {
+  height: 28px;
+}
+
+.careers-mobile .fo-1 {
+  align-items: flex-start;
+  background-color: var(--green);
+  display: flex;
+  height: 1076px;
+  margin-top: 189px;
+  padding: 90px 23px;
+  width: 100%;
+}
+
+.careers-mobile .frame-125-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  margin: 0 auto;
+  position: relative;
+  width: 384px;
+}
+
+.careers-mobile .frame-121-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.careers-mobile .footer_logo-1-1 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.careers-mobile .syrian-gourmet-was-b-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .social-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .frame-55-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.careers-mobile .frame-55-item-1 {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.careers-mobile .vector-button-1 {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.careers-mobile .frame-122-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.careers-mobile .quick-links-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.careers-mobile .place-3 {
+  line-height: normal;
+}
+
+.careers-mobile .products-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .recipes-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .about-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .conact-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .frame-124-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.careers-mobile .join-our-newsletter-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.careers-mobile .subscribe-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.careers-mobile .frame-57-1 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 384px;
+  overflow: hidden;
+  position: relative;
+}
+
+.careers-mobile .frame-5-1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 11px;
+  width: 349px;
+}
+
+.careers-mobile .enter-email-1 {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 338px;
+  padding: 0;
+  position: relative;
+}
+
+.careers-mobile .enter-email-1::placeholder {
+  color: #5b5b5b99;
+}
+
+.careers-mobile .group-1-1 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.careers-mobile .frame-2-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+  width: 384px;
+}
+
+.careers-mobile .subscribe-1 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.careers-mobile .span0-1 {
+  color: var(--shark);
+}
+
+.careers-mobile .span1-1 {
+  color: var(--alto);
+}
+
+.careers-mobile .frame-3991 {
+  align-self: stretch;
+  position: relative;
+}
+
+.careers-mobile .job-title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+}
+
+.careers-mobile .place {
+  align-self: stretch;
+  letter-spacing: 0;
+  position: relative;
+}
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2101px;
+  width: 100%;
+}
+
+.index .frame-89-1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  position: relative;
+  width: 80%;
+}
+
+.index .logo-1-2 {
+  height: 73px;
+  min-width: 149px;
+  position: relative;
+}
+
+.index .navbar-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  position: relative;
+  width: fit-content;
+}
+
+.index .navbar-link-1 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .title-2 {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 28.0px;
+  margin-top: 95px;
+  min-height: 96px;
+  min-width: 262px;
+}
+
+.index .current-positions-2 {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 28.0px;
+  margin-top: 124px;
+  min-height: 60px;
+  min-width: 356px;
+}
+
+.index .overlap-group-1 {
+  display: grid;
+  place-items: center;
+  height: 945px;
+  margin-top: 84px;
+  position: relative;
+  width: 100%;
+}
+
+.index .leaf-with-white-background-2 {
+  left: 0;
+  top: 0;
+  width: 148px;
+}
+
+.index .leaf-with-white-background-3 {
+  right: 0%;
+  top: 708px;
+  width: 126px;
+}
+
+.index .frame-40007-2 {
+  justify-self: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+
+  position: absolute;
+  top: 13px;
+  width: 896px;
+}
+
+.index .frame-3991-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  position: relative;
+}
+
+.index .frame-3991-5 {
+  background-image: url(../img/container-14@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 445px;
+  min-width: 438px;
+  position: relative;
+}
+
+.index .frame-39913-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  left: 68px;
+  position: relative;
+  top: 60px;
+  width: 208px;
+}
+
+.index .place-4 {
+  line-height: 18px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.index .job-title-5 {
+  white-space: nowrap;
+}
+
+.index .location-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.index .master-primary-button-2 {
+  align-items: center;
+  align-self: stretch;
+  border: 2px solid;
+  border-color: var(--green);
+  border-radius: 40px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 24px 36px;
+  position: relative;
+}
+
+.index .button-text-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .job-title-6 {
+  height: 35px;
+}
+
+.index .job-title-7 {
+  height: 28px;
+}
+
+.index .fo-2 {
+  align-items: flex-end;
+  background-color: var(--green);
+  display: flex;
+  height: 424px;
+  margin-top: 160px;
+  padding: 78px 61px;
+  width: 100%;
+}
+
+.index .frame-125-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  margin-left: 2px;
+  margin: 0 auto;
+  position: relative;
+  width: 900px;
+}
+
+.index .frame-121-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.index .footer_logo-1-2 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.index .syrian-gourmet-was-b-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .social-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-55-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.index .frame-55-item-2 {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.index .vector-button-2 {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.index .frame-122-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.index .quick-links-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .place-5 {
+  line-height: normal;
+}
+
+.index .products-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .recipes-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .about-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .conact-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-124-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.index .join-our-newsletter-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.index .subscribe-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-57-2 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 257px;
+  overflow: hidden;
+  position: relative;
+}
+
+.index .frame-5-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 10px;
+  width: 235px;
+}
+
+.index .enter-email-2 {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 224px;
+  padding: 0;
+  position: relative;
+}
+
+.index .enter-email-2::placeholder {
+  color: #5b5b5b99;
+}
+
+.index .group-1-2 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.index .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.index .subscribe-2 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .span0-2 {
+  color: var(--shark);
+}
+
+.index .span1-2 {
+  color: var(--alto);
+}
+
+.index .job-title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+}
+
+.index .leaf-with-white-background {
+  height: 218px;
+  position: absolute;
+}
+
+.index .place {
+  align-self: stretch;
+  letter-spacing: 0;
+  position: relative;
+}
+@media screen and (max-width: 1023px) {
+  .screen.careers-desktop { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .screen.careers-desktop { 
+    display: none;
+   }
+  .screen.careers-mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.careers-mobile { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}

@@ -1,0 +1,1246 @@
+/* screen - index */
+
+.index {
+  display: grid;
+  place-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  flex-direction: column;
+  height: 2589px;
+  width: 100%;
+}
+
+.index .frame-89-1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  position: relative;
+  width: 80%;
+}
+
+.index .logo-1-2 {
+  height: 73px;
+  min-width: 149px;
+  position: relative;
+}
+
+.index .navbar-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  position: relative;
+  width: fit-content;
+}
+
+.index .navbar-link-1 {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .title-2 {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 63px;
+  min-width: 222px;
+  white-space: nowrap;
+}
+
+.index .overlap-group-1 {
+  height: 1653px;
+  margin-top: 129px;
+  position: relative;
+  width: 100%;
+}
+
+.index .leaf-with-white-background-2 {
+  left: 0;
+  top: 239px;
+  width: 148px;
+}
+
+.index .leaf-with-white-background-3 {
+  right: 0%;
+  top: 1435px;
+  width: 126px;
+}
+
+.index .frame-39986-1 {
+  justify-self: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  left: 97px;
+  position: absolute;
+  top: 0;
+  width: 80%;
+}
+
+.index .frame-399-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 32px;
+  position: relative;
+}
+
+.index .frame-3995-2 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 23px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  height: 250px;
+  padding: 16px;
+  position: relative;
+}
+
+.index .group-39839-3 {
+  align-self: stretch;
+  height: 130px;
+  min-width: 167.25px;
+  position: relative;
+}
+
+.index .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  min-width: 167px;
+}
+
+.index .carob_0-1-2 {
+  height: 130px;
+  width: 34px;
+}
+
+.index .screencapture-instag-2 {
+  height: 130px;
+  width: 38px;
+}
+
+.index .apple-viniger_0-2-2 {
+  height: 130px;
+  width: 41px;
+}
+
+.index .update-sg-008-2 {
+  height: 130px;
+  width: 40px;
+}
+
+.index .essential-for-kitchen-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.index .input-button-1 {
+  align-items: flex-end;
+  background-color: var(--gable-green);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 212px;
+  height: 58px;
+  justify-content: center;
+  margin-right: 1.0px;
+  margin-top: 13px;
+  padding: 0px 42px;
+  position: relative;
+  width: 349px;
+}
+
+.index .downnload-catalogue-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .fo-2 {
+  align-items: flex-end;
+  background-color: var(--green);
+  display: flex;
+  height: 424px;
+  margin-top: 108px;
+  padding: 78px 61px;
+  width: 100%;
+}
+
+.index .frame-125-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  margin-left: 2px;
+  position: relative;
+  margin: 0 auto;
+  width: 900px;
+}
+
+.index .frame-121-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.index .footer_logo-1-2 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.index .syrian-gourmet-was-b-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .social-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-55-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.index .frame-55-item-2 {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.index .vector-button-2 {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.index .frame-122-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.index .quick-links-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .place-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .products-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .recipes-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .about-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .conact-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-124-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.index .join-our-newsletter-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.index .subscribe-us-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.index .frame-57-2 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 257px;
+  overflow: hidden;
+  position: relative;
+}
+
+.index .frame-5-2 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 10px;
+  width: 235px;
+}
+
+.index .enter-email-2 {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 224px;
+  padding: 0;
+  position: relative;
+}
+
+.index .enter-email-2::placeholder {
+  color: #5b5b5b99;
+}
+
+.index .group-1-2 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.index .frame-2-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.index .subscribe-2 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .span0-2 {
+  color: var(--shark);
+}
+
+.index .span1-2 {
+  color: var(--alto);
+}
+
+.index .leaf-with-white-background {
+  height: 218px;
+  position: absolute;
+}
+/* screen - products-desktop */
+
+.products-desktop {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2489px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.products-desktop .frame-89 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  position: relative;
+  width: 80%;
+}
+
+.products-desktop .logo-1 {
+  height: 73px;
+  min-width: 149px;
+  position: relative;
+}
+
+.products-desktop .navbar {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  position: relative;
+  width: fit-content;
+}
+
+.products-desktop .navbar-link {
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.products-desktop .title {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-right: 26.0px;
+  margin-top: 80px;
+  min-width: 296px;
+  white-space: nowrap;
+}
+
+.products-desktop .overlap-group {
+  height: 1590px;
+  margin-top: 97px;
+  position: relative;
+  width: 1440px;
+}
+
+.products-desktop .leaf-with-white-background {
+  height: 299px;
+  left: 0%;
+  position: absolute;
+  top: 386px;
+  width: 231px;
+}
+
+.products-desktop .leaf-with-white-background-1 {
+  height: 299px;
+  right: 0%;
+  position: absolute;
+  top: 1291px;
+  width: 224px;
+}
+
+.products-desktop .frame-39986 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+  width: 80%;
+}
+
+.products-desktop .frame-399 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 32px;
+  position: relative;
+}
+
+.products-desktop .frame-3995 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 23px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  height: 250px;
+  padding: 16px;
+  position: relative;
+}
+
+.products-desktop .group-39839 {
+  align-self: stretch;
+  height: 130px;
+  min-width: 224px;
+  position: relative;
+}
+
+.products-desktop .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 224px;
+}
+
+.products-desktop .carob_0-1 {
+  height: 130px;
+  width: 45px;
+}
+
+.products-desktop .screencapture-instag {
+  height: 130px;
+  width: 50px;
+}
+
+.products-desktop .apple-viniger_0-2 {
+  height: 130px;
+  width: 55px;
+}
+
+.products-desktop .update-sg-008 {
+  height: 130px;
+  width: 54px;
+}
+
+.products-desktop .essential-for-kitchen {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.products-desktop .input-button {
+  align-items: flex-end;
+  background-color: var(--gable-green);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 212px;
+  height: 58px;
+  justify-content: center;
+  margin-right: 1.0px;
+  margin-top: 44px;
+  padding: 0px 42px;
+  position: relative;
+  width: 349px;
+  transform:translatex(0px) translatey(1600px);
+}
+
+.products-desktop .downnload-catalogue {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.products-desktop .fo {
+  align-items: flex-start;
+  background-color: var(--green);
+  display: flex;
+  height: 424px;
+  margin-top: 55px;
+  padding: 90px 160px;
+  width: 100%;
+  transform:translatex(0px) translatey(1650px);
+}
+
+.products-desktop .frame-125 {
+  align-items: flex-start;
+  display: flex;
+  gap: 64px;
+  margin: 0 auto;
+  position: relative;
+  width: 1120px;
+}
+
+.products-desktop .frame-121 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.products-desktop .footer_logo-1 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.products-desktop .syrian-gourmet-was-b {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .social {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .frame-55 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.products-desktop .frame-55-item {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.products-desktop .vector-button {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.products-desktop .frame-122 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.products-desktop .quick-links {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.products-desktop .place {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .products {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .recipes {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .about-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .conact-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .frame-124 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.products-desktop .join-our-newsletter {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.products-desktop .subscribe-us {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-desktop .frame-57 {
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 330.67px;
+  overflow: hidden;
+  position: relative;
+}
+
+.products-desktop .frame-5 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 10px;
+  width: 309px;
+}
+
+.products-desktop .enter-email {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 298px;
+  padding: 0;
+  position: relative;
+}
+
+.products-desktop .enter-email::placeholder {
+  color: #5b5b5b99;
+}
+
+.products-desktop .group-1 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.products-desktop .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.products-desktop .subscribe {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.products-desktop .span0 {
+  color: var(--shark);
+}
+
+.products-desktop .span1 {
+  color: var(--alto);
+}
+
+.products-desktop .group-39833 {
+  align-self: flex-end;
+  height: 410px;
+  margin-right: -49601px;
+  margin-top: 2161px;
+  width: 352px;
+}
+/* screen - products-mobile */
+
+.products-mobile {
+  display: grid;
+  place-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  flex-direction: column;
+  height: 3757px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.products-mobile .frame-94 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+  position: relative;
+  width: 80%;
+}
+
+.products-mobile .logo-1-1 {
+  height: 33px;
+  min-width: 68px;
+  position: relative;
+}
+
+.products-mobile .frame-93 {
+  height: 36px;
+  min-width: 37px;
+  position: relative;
+}
+
+.products-mobile .frame-39985 {
+  display: grid;
+  place-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  margin-top: 64px;
+  position: relative;
+  width: 90%;
+}
+
+.products-mobile .title-1 {
+  color: var(--green);
+  font-family: var(--font-family-poppins);
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.products-mobile .frame-39984 {
+  justify-self: center;
+  align-self: stretch;
+  display: flex;
+  margin-left: -5%;
+  gap: 16px;
+  position: relative;
+}
+
+.products-mobile .frame-39955 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.products-mobile .frame-3995-1 {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--rum-swizzle);
+  border-radius: 23px;
+  flex-direction: column;
+  gap: 32px;
+  height: 250px;
+  padding: 16px;
+  position: relative;
+}
+
+.products-mobile .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  min-width: 159px;
+}
+
+.products-mobile .carob_0-1-1 {
+  height: 130px;
+  width: 32px;
+}
+
+.products-mobile .screencapture-instag-1 {
+  height: 130px;
+  width: 36px;
+}
+
+.products-mobile .apple-viniger_0-2-1 {
+  height: 130px;
+  width: 39px;
+}
+
+.products-mobile .update-sg-008-1 {
+  height: 130px;
+  width: 38px;
+}
+
+.products-mobile .essential-for-kitchen-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.products-mobile .button-button {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 48px;
+  justify-content: center;
+  position: relative;
+  width: 164px;
+}
+
+.products-mobile .button {
+  align-items: center;
+  background-color: var(--gable-green);
+  border-radius: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 48px;
+  justify-content: center;
+  position: relative;
+  width: 164px;
+}
+
+.products-mobile .action {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0.10px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.products-mobile .fo-1 {
+  align-items: flex-start;
+  background-color: var(--green);
+  display: flex;
+  height: 1079px;
+  margin-top: 193px;
+  padding-top: 90px;
+  width: 100%;
+}
+
+.products-mobile .frame-125-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  margin: 0 auto;
+  position: relative;
+  width: 384px;
+}
+
+.products-mobile .frame-121-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+}
+
+.products-mobile .footer_logo-1-1 {
+  height: 69px;
+  min-width: 201px;
+  object-fit: cover;
+  position: relative;
+}
+
+.products-mobile .syrian-gourmet-was-b-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .social-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .frame-55-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.products-mobile .frame-55-item-1 {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.products-mobile .vector-button-1 {
+  cursor: pointer;
+  height: 39px;
+  min-width: 41px;
+  position: relative;
+}
+
+.products-mobile .frame-122-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+}
+
+.products-mobile .quick-links-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.products-mobile .place-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .products-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .recipes-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .about-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .conact-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .frame-124-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+}
+
+.products-mobile .join-our-newsletter-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  opacity: 0.4;
+  position: relative;
+}
+
+.products-mobile .subscribe-us-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.products-mobile .frame-57-1 {
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 37px;
+  min-width: 384px;
+  overflow: hidden;
+  position: relative;
+}
+
+.products-mobile .frame-5-1 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 13px;
+  position: relative;
+  top: 11px;
+  width: 349px;
+}
+
+.products-mobile .enter-email-1 {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  min-width: 338px;
+  padding: 0;
+  position: relative;
+}
+
+.products-mobile .enter-email-1::placeholder {
+  color: #5b5b5b99;
+}
+
+.products-mobile .group-1-1 {
+  height: 13.72px;
+  margin-left: -0.75px;
+  margin-right: -0.75px;
+  min-width: 12.5px;
+  position: relative;
+}
+
+.products-mobile .frame-2-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 23px;
+  box-shadow: 0px 182px 73px #00000017 , 0px 284px 80px #0000000d;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  height: 43px;
+  justify-content: center;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.products-mobile .subscribe-1 {
+  color: transparent;
+  font-weight: 600;
+  line-height: 32px;
+  margin-bottom: -9.50px;
+  margin-top: -11.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.products-mobile .span0-1 {
+  color: var(--shark);
+}
+
+.products-mobile .span1-1 {
+  color: var(--alto);
+}
+
+.products-mobile .group-39839 {
+  align-self: stretch;
+  height: 130px;
+  min-width: 159px;
+  position: relative;
+}
+@media screen and (max-width: 1023px) {
+  .screen.products-desktop { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .screen.products-desktop { 
+    display: none;
+   }
+  .screen.products-mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.products-mobile { 
+    display: none;
+   }
+  .screen.index { 
+    display: none;
+   }
+}
